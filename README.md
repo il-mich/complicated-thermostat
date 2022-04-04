@@ -22,6 +22,7 @@ From this situation comes the need for a remotely controlled thermostat.
 
 ## Technologies
 
-MVP: ESP8266 or ESP32, MicroPython, MQTT and temperature and humidity sensor.
-Later on: Telegram bot or interctive Web page and IR transmitter led.
+- MVP: ESP8266 or ESP32, MicroPython, MQTT and temperature and humidity sensor.
+
+- Later on: Telegram bot or interctive Web page and IR transmitter.
 
